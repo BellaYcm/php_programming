@@ -31,6 +31,7 @@ class Logger
         return "logging";
     }
 
+    #_clone 设置为私有 防止开发者创建第二个实例
     private function __clone()
     {
         // TODO: Implement __clone() method.
