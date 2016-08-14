@@ -76,6 +76,11 @@ class ProductItem implements Observer
         }
     }
 
+    public function update()
+    {
+        // TODO: Implement update() method.
+    }
+
 }
 
 new ProductItem();
