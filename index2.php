@@ -1,4 +1,5 @@
 <?php
+namespace c;
 
 /**
  * 多态 polymorphism

@@ -1,5 +1,5 @@
 <?php
-
+namespace a;
 /**
  * 静态方法共享
  * Class foo

@@ -1,4 +1,5 @@
 <?php
+namespace d;
 
 /**
  * __tostring魔术方法
